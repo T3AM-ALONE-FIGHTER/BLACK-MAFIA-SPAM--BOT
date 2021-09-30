@@ -22,7 +22,7 @@
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
                           
 <a href="https://t.me/BLACK_MAFIA_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/deadly_spammer"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/BLACK_MAFIA_SPAM_BOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 ## 𝙾𝚆𝙽𝙴𝚁 -[COBRA🇮🇳](https://t.me/OFFICIAL_SAMEER)
