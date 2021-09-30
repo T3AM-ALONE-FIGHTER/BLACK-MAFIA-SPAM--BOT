@@ -1,7 +1,7 @@
 {
-    "name": "Spam Bot 2.0",
+    "name": "mafia Spam Bot 2.0",
     "description": "Best Spamming Bots",
-    "logo": "https://telegra.ph/file/8626f33867fc155eaa404.jpg",
+    "logo": "https://telegra.ph/file/88edd0333d50942e7b717.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -9,9 +9,9 @@
         "Ustad-op",
         "SpamBots"
     ],
-    "repository": "https://t.me/USTAD_OP",
-    "website": "https://t.me/USTAD_OP",
-    "success_url": "https://t.me/USTAD_OP",
+    "repository": "https://t.me/KING_COBRA_XD",
+    "website": "https://t.me/KING_COBRA_XD",
+    "success_url": "https://t.me/KING_COBRA_XD",
     "env": {
       "BOT_TOKEN": {
         "description": "Bot token, get it from @BotFather",
