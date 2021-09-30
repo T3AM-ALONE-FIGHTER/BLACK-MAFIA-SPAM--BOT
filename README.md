@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/5f300db034fe1c137d295.jpg">
+  <img src="https://telegra.ph/file/88edd0333d50942e7b717.jpg">
 </p>
 
 
@@ -25,9 +25,9 @@
 <a href="https://t.me/deadly_spammer"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## 𝙾𝚆𝙽𝙴𝚁 -[𝚂𝙰𝙼𝙴𝙴𝚁🇮🇳](https://t.me/OFFICIAL_SAMEER)
-## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[𝙳𝙰𝙽𝙸𝚂𝙷🇮🇳](https://t.me/IDANISHBAABA)
-## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[𝚄𝚂𝚃𝙰𝙳🇮🇳](https://t.me/USTAD_OP)
+## 𝙾𝚆𝙽𝙴𝚁 -[COBRA🇮🇳](https://t.me/OFFICIAL_SAMEER)
+## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[ASHU🇮🇳](https://t.me/IDANISHBAABA)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[COBRA🇮🇳](https://t.me/USTAD_OP)
 -------------------------------------------------
 
 ## 🚀 Deploy on Heroku 
